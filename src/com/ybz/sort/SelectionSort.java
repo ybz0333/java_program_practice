@@ -1,6 +1,6 @@
 package com.ybz.sort;
 /*
- * 选择排序答案
+ * 牛客网冒泡排序答案
  */
 public class SelectionSort {
 	 

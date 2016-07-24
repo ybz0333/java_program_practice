@@ -1,6 +1,6 @@
 package com.ybz.sort;
 /*
- * 归并排序答案
+ * 牛客网归并排序答案
  */
 public class MergeSort {
  

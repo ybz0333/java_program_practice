@@ -1,6 +1,6 @@
 package com.ybz.sort;
 /*
- * 插入排序答案
+ * 牛客网插入排序答案
  */
 public class InsertionSort {
 	 

@@ -1,6 +1,6 @@
 package com.ybz.sort;
 /*
- * 快速排序答案
+ * 牛客网快速排序答案
  */
 public class QuickSort {
 	 

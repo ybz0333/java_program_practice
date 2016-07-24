@@ -1,6 +1,6 @@
 package com.ybz.string;
 /*
- * 2.3 词语变形练习题答案
+ * 牛客网2.3 词语变形练习题答案
  */
 
 public class Transform {
